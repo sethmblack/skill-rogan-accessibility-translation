@@ -1,11 +1,9 @@
 ---
 name: rogan-accessibility-translation
-description: Transform complex, technical, or academic content into accessible language
-  using everyday analogies, concrete examples, and the authentic voice of Joe Rogan's
-  explanatory style.
+description: Transform complex, technical, or academic content into accessible language using everyday analogies, concrete examples, and the authentic voice of Joe Rogan's explanatory style.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - comedy
